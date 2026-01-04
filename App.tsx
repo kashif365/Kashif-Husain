@@ -39,7 +39,7 @@ const App: React.FC = () => {
                 <div className="aspect-[4/5] rounded-[3rem] overflow-hidden glass relative z-10 p-2">
                   <div className="w-full h-full rounded-[2.5rem] overflow-hidden">
                     <img 
-                      src="./img/Kashif-Hussain.jpg" 
+                      src="/img/Kashif-Hussain.jpg"
                       className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-105 group-hover:scale-100" 
                       alt="Kashif Hussain" 
                     />

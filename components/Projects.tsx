@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
             <div key={project.id} className="group relative overflow-hidden rounded-3xl glass transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/10">
               <div className="aspect-video overflow-hidden">
                 <img 
-                  src="./img/projects.jpg" 
+                  src="/img/projects.jpg" 
                   alt={project.title} 
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
